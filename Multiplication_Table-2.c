@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 int main()
 {
     int i,a,b;
@@ -8,5 +8,4 @@ int main()
         printf("%d x %d = %d
 ",a,i,i*a);
     }
-    
 }
